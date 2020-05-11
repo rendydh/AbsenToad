@@ -9,7 +9,6 @@
 
 }
 body {
-    background-image: url("aov-wallpaper.png");
     background-size: 100%
 }
 
@@ -49,6 +48,15 @@ h1 {
     letter-spacing: 2px;
     text-align: center;
 }
+
+h2 {
+    font-family: 'Arimo', sans-serif;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
 h1:hover {
     color: dodgerblue;
 }
